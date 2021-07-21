@@ -1,0 +1,25 @@
+apiVersion: v1
+
+entries:
+
+  jenkins:
+
+  - apiVersion: v1
+
+    appVersion: "1"
+
+    created: "2021-07-21T14:13:17.0984856+05:30"
+
+    description: Chart for setup the Jenkins
+
+    digest: e004fe5d6a650b2e3b0352409d6cbf047723235b98478b18c856ef5f03da6505
+
+    name: jenkins
+
+    urls:
+
+    - jenkins-0.1.tgz
+
+    version: "0.1"
+
+generated: "2021-07-21T14:13:17.0979855+05:30"
